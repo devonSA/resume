@@ -54,6 +54,7 @@ Databases | Languages | Analytic/visualization Tools
 ##### Goldey Beacom College
 Wilmington, Delaware  
 Master's of Finance (expected graduation - August 2016)
+
 **Relevant Coursework:**
 Econometrics, Corporate Valuations, Managerial  Economics, International Marketing, Entrepreneurship, Team Dynamics
 
@@ -66,6 +67,7 @@ Liberal Arts Degree - Major: Economics - Minors: Computer Science and Math
 ##### London School of Economics
 London, United Kingdom
 Junior Year Abroad program as part of Liberal arts degree
+
 **Relevant Coursework**
 Advanced Economic Analysis, Analysis of Algorithms, Complex Analysis,  Mathematical Statistics, Artificial Intelligence, Probability and Statistics
 
