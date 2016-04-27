@@ -19,7 +19,7 @@ June 2013 - Present
 - Generated weekly, monthly and quarterly reports for internal and external partners.
 - Led data audit of replatforming process.
 - Responsible for implementing event based analytic framework.
-- Conducted regular data-driven testing of site security and general bug discovery
+- Conducted regular data-driven testing of site security and general bug discovery.
 
 ---
 
@@ -38,8 +38,8 @@ Cape Town, South Africa
 Summer 2012
 
 - Built spreadsheet designed to provide geographic and sector allocation of funds for strategic analysis.
-- Improved automation of downloading and updating stock prices using Bloomberg terminal
-- Worked with senior analysts to adjust holdings based on strategic and technical strategy 
+- Improved automation of downloading and updating stock prices using Bloomberg terminal.
+- Worked with senior analysts to adjust holdings based on strategic and technical strategy. 
 
 
 ---
@@ -68,6 +68,6 @@ Liberal Arts Degree - Major: Economics - Minors: Computer Science and Math
 London, United Kingdom
 Junior Year Abroad program as part of Liberal arts degree
 
-**Relevant Coursework**
+**Relevant Coursework:**
 Advanced Economic Analysis, Analysis of Algorithms, Complex Analysis,  Mathematical Statistics, Artificial Intelligence, Probability and Statistics
 
