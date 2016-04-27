@@ -6,7 +6,7 @@ Find me:
 [ Email ] (mailto://isakow.devon@gmail.com) * [ LinkedIn ] (https://www.linkedin.com/in/devon-isakow-531b3649)
 
 ### Personal Statement
-I am a data analyst with 3 years of experience in SQL and using production like databases to track usage and drive product development. My main focus when working with a team is to figure out *why* they want the numbers they are requesting, and to see if I can generalize the analysis to make it self service. I believe that everyone in the organization should be able to get their hands on usable data. 
+I am a data analyst with 3 years of experience in SQL and using production databases to track usage and drive product development. My main focus when working with a team is to figure out *why* they want the numbers they are requesting, and to see if I can generalize the analysis to make it self service. I believe that everyone in the organization should be able to get their hands on usable data. 
 
 
 ### Professional Experience
