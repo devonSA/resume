@@ -1,18 +1,25 @@
 # Devon Isakow
-#### Data Analyst 
-
-Find me:
-
-[ Email ] (mailto://isakow.devon@gmail.com) * [ LinkedIn ] (https://www.linkedin.com/in/devon-isakow-531b3649)
+#### Data Engineer
 
 ### Personal Statement
-I am a data analyst with 3 years of experience in SQL and using production databases to track usage and drive product development. My main focus when working with a team is to figure out *why* they want the numbers they are requesting, and to see if I can generalize the analysis to make it self service. I believe that everyone in the organization should be able to get their hands on usable data. 
+I am a data engineer working to combine data from disparate sources in order to track usage and drive product development. My primary focus is on ensuring teams are able to answer questions themselves using data. 
 
 
 ### Professional Experience
-###### Business Data Analyst @ Gust LLC
+
+###### Data Engineer @ Gust
 New York City, NY  
-June 2013 - Present
+2015 - current
+
+- Managed a small team prioritizing short term (ad-hoc) data needs with building sustainable infrastructure 
+- Implemented framework for automatic collection and sanitization of third party data. 
+- Created documentation for best practices to display data and track additional data points.
+- Aided top level management with business strategy and data modelling 
+
+
+###### Business Data Analyst @ Gust
+New York City, NY  
+June 2013 - 2015
 
 - Responsible for establishment of cross departmental KPI's.
 - Evaluated and implemented analytics and visualization tools for company wide use. 
@@ -33,27 +40,16 @@ August 2011 - June 2013
 
 ---
 
-###### Assistant Analyst @ MitonOptimal Multi Asset Management  
-Cape Town, South Africa  
-Summer 2012
-
-- Built spreadsheet designed to provide geographic and sector allocation of funds for strategic analysis.
-- Improved automation of downloading and updating stock prices using Bloomberg terminal.
-- Worked with senior analysts to adjust holdings based on strategic and technical strategy. 
-
-
----
-
 ### Technical Skills
 Databases | Languages | Analytic/visualization Tools
 :------------: |:------------:| :------------:
-**PostgreSQL**, MongoDB, Cassandra | **Ruby**, Haskell, LISP  | **Tableau**, indicative, **Chartio**, R
+**PostgreSQL**, MongoDB, Cassandra | **Ruby**, Haskell, LISP  | **Tableau**, indicative, **Chartio**, **PeriscopeData**, R
 
 ### Graduate Education
 
 ##### Goldey Beacom College
 Wilmington, Delaware  
-Master's of Finance (expected graduation - August 2016)
+Master's of Finance
 
 **Relevant Coursework:**
 Econometrics, Corporate Valuations, Managerial  Economics, International Marketing, Entrepreneurship, Team Dynamics
